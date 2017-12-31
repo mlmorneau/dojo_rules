@@ -6,3 +6,4 @@ My favorite codeschool path is Javascript, but github is also very interesting.
 *Ruby
 *Selenium
 *Appium
+* Killing history using git rebase
